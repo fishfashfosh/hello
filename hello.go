@@ -9,7 +9,7 @@ import (
 
 // Simple test
 func main() {
-	fmt.Printf("Hello, world.\n")
+	fmt.Printf("Hello, world!.\n")
 	fmt.Printf("check\n")
 	fmt.Printf(stringutil.Reverse("!oG , olleH"))
 }
